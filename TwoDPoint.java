@@ -11,6 +11,6 @@ public class TwoDPoint
     public TwoDPoint(int x, int y)
     {
             this.x = x;
-            this.y = y;
+            this.y = x;
     }
 }
