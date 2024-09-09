@@ -10,7 +10,7 @@ public class TwoDPoint
     public int x, y;
     public TwoDPoint(int x, int y)
     {
-            this.x = x;
+            this.x = y;
             this.y = x;
     }
 }
