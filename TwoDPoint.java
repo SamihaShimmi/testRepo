@@ -12,7 +12,14 @@ public class TwoDPoint
 	
 	
 	
-    public int x, y;
+	
+	
+	
+	
+	
+	
+	
+    public int x, y, p;
     public TwoDPoint(int x, int y)
     {
             this.x = y;
