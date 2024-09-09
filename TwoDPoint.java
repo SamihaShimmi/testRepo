@@ -10,6 +10,7 @@ public class TwoDPoint
 	
 	
 	
+	
     public int x, y, z;
     public TwoDPoint(int x, int y)
     {
