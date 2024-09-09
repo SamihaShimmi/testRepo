@@ -9,7 +9,8 @@ public class TwoDPoint
 {
 	
 	
-    public int x, y;
+	
+    public int x, y, z;
     public TwoDPoint(int x, int y)
     {
             this.x = y;
