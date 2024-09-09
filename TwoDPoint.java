@@ -11,7 +11,8 @@ public class TwoDPoint
 	
 	
 	
-    public int x, y, z;
+	
+    public int x, y;
     public TwoDPoint(int x, int y)
     {
             this.x = y;
