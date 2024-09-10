@@ -9,7 +9,7 @@ import java.lang.Math;
 public class Line
 {
 
-    private int x1, y1, x2, y2; //coordinates of the line
+    private int x1, y1, x2, y; //coordinates of the line
     //Constructor receives 4 integers which are the Shimmi.Line's start and end points.
     public Line(int xOne, int yOne, int xTwo, int yTwo) throws Exception {
         //if not in range exception
