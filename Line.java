@@ -118,5 +118,5 @@ public class Line
     }
 
 } // end class Shimmi.Line
-line 1 added first 
+
     line 2 added second 
