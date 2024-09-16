@@ -18,7 +18,7 @@ public class TwoDPoint
                     arr[j + 1] = temp; 
                 } 
     } 
-  TwoDPoint change 1
+  TwoDPoint change 2
     // Prints the array 
     void printArray(int arr[]) 
     { 
