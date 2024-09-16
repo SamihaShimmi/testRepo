@@ -49,6 +49,8 @@ public class Line
         setYTwo(yTwo);
     }
 
+line file changed 1
+
     // These methods sets values of x,y and throws exception if the values are not in range
     public void setXOne(int xOne) throws Exception
     {
