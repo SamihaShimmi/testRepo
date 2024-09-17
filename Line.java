@@ -97,7 +97,7 @@ line file changed 3
         return y2;
     }
 
-
+line modification 2
     // New code added by Samiha
 
     //this method returns the length of the line
@@ -121,4 +121,4 @@ line file changed 3
 
 } // end class Shimmi.Line
 
-    line 2 added second 
+ line modification 1
